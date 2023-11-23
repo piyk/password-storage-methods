@@ -1,0 +1,41 @@
+{
+
+		"plaintext" :[
+					{"username":"admin@admin.com", "password":"BizhOKiP"},
+					{"username":"lrhlga@comedorcondesa.com", "password":"abc123"},
+					{"username":"machinaamma@playsportsji.com", "password":"abc123"}
+
+				]	,			
+
+		"encode" :[
+					{"username":"admin@admin.com", "password":"Qml6aE9LaVA="},
+					{"username":"lrhlga@comedorcondesa.com", "password":"YWJjMTIz"},
+					{"username":"machinaamma@playsportsji.com", "password":"YWJjMTIz"}
+				],			
+		"hash" :[
+					{"username":"admin@admin.com", "password":"cab66072ab58291de74f495cb5f76ca548cd26c277690cfbf9fa7e48d97f389c"},
+					{"username":"lrhlga@comedorcondesa.com", "password":"6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090"},
+					{"username":"machinaamma@playsportsji.com", "password":"6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090"}
+				],
+		"hash_salt" :[
+					{"username":"admin@admin.com",
+					 		"password":"ea3fb2370487368235b8ec211e45134090e22877aae8cc31d02a1945d4f77e04", 
+							"salt":"nCoJC1sJfthloycVdiW2RzeP9v0eUPua"},
+					{"username":"lrhlga@comedorcondesa.com", 
+							"password":"4835dceadfd5fd22c5785c42dac3b3d7b3cf1a92310b7b9e31ce57651a9915b9",
+							"salt":"jkFgUa7Qxh0WdpR10NfQwhBumUpnWZkq"},
+					{"username":"machinaamma@playsportsji.com", 
+							"password":"60544a9f95dc75f97f0ec118b3c1d530728ec06248dcda95a9eda18f4194af9a",
+							"salt":"PvloVp5tTo9XyHxzVWWKATlwur63K4Er"}
+				],
+		"bcrypt" :[
+					{"username":"admin@admin.com", "password":"$2a$10$WEB6SYPyuYv4Nv/a4DGhee8Lg8OjRTtJGkEqFVbhkU7KVvmJur7Iy"},
+					{"username":"lrhlga@comedorcondesa.com", "password":"$2a$10$kQcc3F7sLhAm/JWwDVaxDOAe0IYCdPcYoqYNTAmSJaMSG.kQYGQgK"},
+					{"username":"machinaamma@playsportsji.com", "password":"$2a$10$wqWRHZc4Su33JBDfuvfCpO7DHy5wRhlomaIDRppEav.MLNCXaW/62"}
+				],
+		"argon2" :[
+					{"username":"admin@admin.com", "password":"$argon2id$v=19$m=65536,t=2,p=1$yrg4DM5NUYJKVzoHV7186g$cPzbM3KjuGab09btfcW2KwV9YuH6qQWvhdrRhyf/7Lg"},
+					{"username":"lrhlga@comedorcondesa.com", "password":"$argon2id$v=19$m=65536,t=2,p=1$6GqgEhYeHrUnYSFLsKkkKw$g8hDBRSH07P+ixxN0SGzJSa+n6SW09qCnIkIr1aVFQ0"},
+					{"username":"machinaamma@playsportsji.com", "password":"$argon2id$v=19$m=65536,t=2,p=1$8CzRXACBWEkAbz4gE6KWkA$oajKiXajPJ9ixhR4plRorm3CyH3/cSzsxKD5oorxLcs"}
+				]					
+}
