@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 	#---------------  ENCODE  ------------------------
 	# for i in data['encode']:
-	# 	if  hash(inputpassword) == i["password"]:
+	# 	if  encode(inputpassword) == i["password"]:
 	# 		print(i)
 	#-----------------  HASH  ------------------------
 	# for i in data['hash']:
